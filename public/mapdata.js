@@ -33,7 +33,7 @@ const MAPDATA = [
   },
 {
     name: "Anvil",
-    url: "/maps/anvil/{z}_{x}_{y}.jpg,
+    url: "/maps/anvil/{z}_{x}_{y}.jpg",
     heightmap: {
       url: "/heightmaps/anvil.jpg",
       tile: "/heightmaps/anvil/{z}_{x}_{y}.jpg",
