@@ -62,7 +62,7 @@ const MAPDATA = [
       ["Shrine", [2880, 2720]],
       ["Soviet Radio Station", [3420, 2100]],
       ["Upper Poppy Farms", [970, 2650]],
-      ["Urban North", [810, ]670],
+      ["Urban North", [810, 670]],
       ["Urban South", [1220, 610]],
       ["Village", [2180, 2940]],
       ["Vineyard", [1400, 1250]],
